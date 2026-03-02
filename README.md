@@ -10,6 +10,4 @@ Features: Text notes, checklists, hand-drawn sketches, voice recordings, PDF exp
 - Optional Google Drive backup → goes directly to **your** Google account (we never access it).
 - Permissions used: Microphone (voice notes), Camera (photos), Storage (saving files).
 
-Full policy: [privacy-policy.md](privacy-policy.md)
-
 Contact: zionforgekl73@gmail.com
