@@ -1,2 +1,15 @@
-# notely-privacy-policy
-Official privacy policy for Notely – the offline-first note-taking app with checklists, drawing, voice notes, and PDF export. No data collection, everything stored locally on your device.
+# Notely App Privacy Policy
+
+Notely is a completely offline-first note-taking app for Android.
+
+Features: Text notes, checklists, hand-drawn sketches, voice recordings, PDF export, local backups, google drive backups.
+
+**Key Privacy Points**
+- All your notes, drawings, voice files are stored **locally** on your device using Hive.
+- We do **not** collect, track, or send any personal data.
+- Optional Google Drive backup → goes directly to **your** Google account (we never access it).
+- Permissions used: Microphone (voice notes), Camera (photos), Storage (saving files).
+
+Full policy: [privacy-policy.md](privacy-policy.md)
+
+Contact: zionforgekl73@gmail.com
